@@ -38,9 +38,8 @@ This C++ Banking Management System is a comprehensive project developed during t
 ## Note
 This project was developed during the 3rd semester as a term project for the Data Structures and Algorithms course. Feel free to explore the code, suggest improvements, or use it as a reference for your own projects.
 
-## Credits
-- Abdullah Ansari
-- Kamran Shahzad
-- Inam Ul Huq
+## Authors
 
-Happy coding!
+- [@aibiansari](https://www.github.com/aibiansari)
+- [@iKamranShahzad](https://www.github.com/iKamranShahzad)
+- [@inam101001](https://www.github.com/inam101001)
